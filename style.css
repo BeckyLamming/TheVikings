@@ -1,0 +1,25 @@
+body { 
+   background-color: #2F4F4F;
+    color: #CD5C5C;
+    font-family: "Roboto", "Helvetica", "Arial", san-serif;
+     font-size: 30px;
+
+    margin: 0 auto;
+    max-width: 50em;
+}
+
+h1 {
+  color: #00FA9A;  
+}
+
+h2 {
+  color: red;  
+     font-size: 40px;
+}
+
+a {
+  color: #FAF0E6;
+     font-size: 30px;
+}
+
+
